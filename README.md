@@ -8,10 +8,10 @@ https://www.alura.com.br/
 AULA 1: VARIÁVEIS, OPERAÇÕES E MÉDIA
 
 Projeto 01 
-Calcular média: inserir dados, calcular a média e imprimir o resultado na tela
-aprendizagem: variáveis, strings, console.log, .toFixed()
+Calcular média: inserir dados, calcular a média e imprimir o resultado na tela. 
+Aprendizagem: variáveis, strings, console.log, .toFixed()
 
 Projeto 02
-Conversor: Armazenamento de Dados - converter MB em KB
-aprendizagem: getElementById, innerHTML, Math.pow, .toLocaleString()
+Conversor: Armazenamento de Dados - converter MB em KB. 
+Aprendizagem: getElementById, innerHTML, Math.pow, .toLocaleString()
 
